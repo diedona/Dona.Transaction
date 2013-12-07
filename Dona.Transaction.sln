@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dona.Transaction.Domain", "Dona.Transaction.Domain\Dona.Transaction.Domain.csproj", "{6BB1D51F-E9D1-4622-BA60-0F55886CE07A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dona.Transaction.Infra", "Dona.Transaction.Infra\Dona.Transaction.Infra.csproj", "{12179D93-F6A0-4C0F-A815-C9CFE5208A72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dona.Transaction.Service", "Dona.Transaction.Service\Dona.Transaction.Service.csproj", "{5F9721DB-CA85-4874-9698-2C141844AE2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BB1D51F-E9D1-4622-BA60-0F55886CE07A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BB1D51F-E9D1-4622-BA60-0F55886CE07A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BB1D51F-E9D1-4622-BA60-0F55886CE07A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BB1D51F-E9D1-4622-BA60-0F55886CE07A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12179D93-F6A0-4C0F-A815-C9CFE5208A72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12179D93-F6A0-4C0F-A815-C9CFE5208A72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12179D93-F6A0-4C0F-A815-C9CFE5208A72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12179D93-F6A0-4C0F-A815-C9CFE5208A72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F9721DB-CA85-4874-9698-2C141844AE2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F9721DB-CA85-4874-9698-2C141844AE2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F9721DB-CA85-4874-9698-2C141844AE2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F9721DB-CA85-4874-9698-2C141844AE2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
